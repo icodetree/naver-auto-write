@@ -5,9 +5,7 @@
 - 생성된 콘텐츠를 네이버 블로그에 자동으로 업로드하는 시스템 구축
 
 ## 참고 자료
-- 1탄: https://www.youtube.com/watch?v=WL7ZUil35xA
-- 2탄: https://www.youtube.com/watch?v=H4nJVmO03G8
-- Gemini API 문서: https://ai.google.dev/gemini-api/docs/get-started/tutorial?hl=ko&lang=python
+ - Gemini API 문서: https://ai.google.dev/gemini-api/docs/get-started/tutorial?hl=ko&lang=python
 
 ## 파일 구조
 - `/data/sample_data.py`: 테스트용 블로그 제목 샘플 데이터 생성

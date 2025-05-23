@@ -1,7 +1,7 @@
 import openpyxl
 import google.generativeai as genai
 
-API_KEY = 'AIzaSyAI6zTdm4Rj0anPfjFemycyg-UnjzIimlc'
+API_KEY = '구글 gemini api key'
 genai.configure(api_key=API_KEY)
 gemini_model = 'gemini-2.0-flash'
 

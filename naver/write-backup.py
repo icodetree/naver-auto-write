@@ -13,8 +13,8 @@ import random
 from selenium.webdriver.common.action_chains import ActionChains
 
 # 네이버 계정 정보
-NAVER_ID = 'master8407'
-NAVER_PW = 'qusghdud0311#$'
+NAVER_ID = '본인 네이버 아이디'
+NAVER_PW = '본인 네이버 비밀번호입력'
 
 # 크롬 드라이버 경로 (환경에 맞게 수정)
 CHROME_DRIVER_PATH = '/usr/local/bin/chromedriver'

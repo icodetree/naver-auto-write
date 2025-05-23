@@ -13,8 +13,8 @@ from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.common.action_chains import ActionChains
 
 # 네이버 계정 정보
-NAVER_ID = 'master8407'
-NAVER_PW = 'qusghdud0311#$'
+NAVER_ID = '본인 네이버 아이디'
+NAVER_PW = '본인 네이버 비밀번호입력'
 
 # 네이버 로그인 함수
 def naver_login(driver, wait):
